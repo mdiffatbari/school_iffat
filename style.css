@@ -8,6 +8,7 @@ body{
     background-color: #21B573;
     padding: 4px 30px;
     color: white;
+    border-radius: 30px;
 }
 .nav-area{
     position: relative;
